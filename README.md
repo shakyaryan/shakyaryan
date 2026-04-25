@@ -1,13 +1,11 @@
 <h1 align="center">🌕 Aryan Shakya</h1>
 
 <p align="center">
-🤖 AI Engineering &nbsp; | &nbsp;
-📊 Data Science &nbsp; | &nbsp;
-🛠️ Software Development &nbsp; | &nbsp;
-📈 Data Visualization &nbsp; | &nbsp;
-🤝 Machine Learning &nbsp; | &nbsp;
-🧠 Natural Language Processing &nbsp; | &nbsp;
-🧬 Neural Networks &nbsp; | &nbsp;
-🔥 Deep Learning &nbsp; | &nbsp;
-🏛️ Big Data &nbsp; | &nbsp;
+  Programming & Tools: Python (Pandas, NumPy), SQL, MySQL, Git, LaTeX, Markdown &nbsp; | &nbsp;
+  Data Tools: Microsoft Excel (Pivot Tables, VLOOKUP) &nbsp; | &nbsp;
+  Data Analysis: Data Cleaning, Exploratory Data Analysis (EDA), Statistics &nbsp; | &nbsp;
+  Machine Learning: Basics of Machine Learning, Natural Language Processing (Basic) &nbsp; | &nbsp;
+  Visualization: Data Visualization &nbsp; | &nbsp;
+  Core Skills: Analytical Thinking, Problem Solving, Data Interpretation <br><br>
+  🔗 [Visit Portfolio Website](https://aryanrays.vercel.app)
 </p>
