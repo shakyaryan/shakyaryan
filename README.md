@@ -6,6 +6,6 @@
   Data Analysis: Data Cleaning, Exploratory Data Analysis (EDA), Statistics &nbsp; | &nbsp;
   Machine Learning: Basics of Machine Learning, Natural Language Processing (Basic) &nbsp; | &nbsp;
   Visualization: Data Visualization &nbsp; | &nbsp;
-  Core Skills: Analytical Thinking, Problem Solving, Data Interpretation <br><br>
-  🔗 [Visit Portfolio Website](https://aryanrays.vercel.app)
+  Core Skills: Analytical Thinking, Problem Solving, Data Interpretation <br><br>  
+  🔗 Visit Portfolio Website: https://aryanrays.vercel.app
 </p>
