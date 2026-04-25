@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">🌕 Aryan Shakya</h1>
 
-<!--
-**shakyaryan/shakyaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🤖 AI Engineering &nbsp; | &nbsp;
+📊 Data Science &nbsp; | &nbsp;
+🛠️ Software Development &nbsp; | &nbsp;
+📈 Data Visualization &nbsp; | &nbsp;
+🤝 Machine Learning &nbsp; | &nbsp;
+🧠 Natural Language Processing &nbsp; | &nbsp;
+🧬 Neural Networks &nbsp; | &nbsp;
+🔥 Deep Learning &nbsp; | &nbsp;
+🏛️ Big Data &nbsp; | &nbsp;
+</p>
